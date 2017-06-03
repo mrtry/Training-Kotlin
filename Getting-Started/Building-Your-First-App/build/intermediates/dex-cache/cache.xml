@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/symmt/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-4/e6a7403299b8f3126e3a1576c02e3f07ae5af6fa/kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
+        <dex dex="/Users/symmt/Program/Study/Android/AndroidTraining/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.2-4_7eaee1c5d07cf32fa5826db802e5885b15f401cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/symmt/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-4/3f5f1498bdbb9611cb1413f794b3a3a5a6edef34/kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="/Users/symmt/Program/Study/Android/AndroidTraining/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.2-4_87b172850830037677fc26e267ed8d494f77cafe.jar" />
+    </item>
+
+</items>
